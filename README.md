@@ -30,9 +30,6 @@ The RigoBlock protocol requires tokens to be whitelisted in order to be added to
 24	YFI	0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e
 25	QUANT	0x4a220e6096b25eadb88358cb44068a3248254675
 26	PAXG	0x45804880de22913dafe09f4980848ece6ecbaf78
-![image](https://github.com/RigoBlock/token-whitelists/assets/12066256/a31329ea-6989-4e3a-b97a-d63db962b8bb)
-
-
 ```
 ## Optimism
 ```
@@ -67,8 +64,6 @@ The RigoBlock protocol requires tokens to be whitelisted in order to be added to
 29	PREMIA	0x374ad0f47f4ca39c78e5cc54f1c9e426ff8f231a
 30	wstETH	0x1f32b1c2345538c0c6f582fcb022739c4a194ebb
 31	ZRX	0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33
-![image](https://github.com/RigoBlock/token-whitelists/assets/12066256/79faaa68-1d69-45b5-a93d-d5b1b83956f5)
-
 ```
 ## Arbitrum
 ```
@@ -123,8 +118,6 @@ The RigoBlock protocol requires tokens to be whitelisted in order to be added to
 49	NFTI	0xcfe3fbc98d80f7eca0bc76cd1f406a19dd425896
 50	GRG	0x7f4638a58c0615037decc86f1dae60e55fe92874
 51	ARB	0x912CE59144191C1204E64559FE8253a0e49E6548
-![image](https://github.com/RigoBlock/token-whitelists/assets/12066256/7edad1a7-7078-440e-b026-8bb7ddb01f14)
-
 ```
 ## Polygon
 ```
@@ -158,9 +151,6 @@ The RigoBlock protocol requires tokens to be whitelisted in order to be added to
 28	LDO	0xc3c7d422809852031b44ab29eec9f1eff2a58756
 29	THALES	0x692c44990e4f408ba0917f5c78a83160c1557237
 30	THX	0x2934b36ca9a4b31e633c5be670c8c8b28b6aa015
-![image](https://github.com/RigoBlock/token-whitelists/assets/12066256/bc36804b-931a-4a0f-9c6a-5ed7f8e95fcb)
-
-
 ```
 ## Bsc
 ```
@@ -204,9 +194,6 @@ The RigoBlock protocol requires tokens to be whitelisted in order to be added to
 38	COVAL	0xd15CeE1DEaFBad6C0B3Fd7489677Cc102B141464
 39	CTSI	0x8dA443F84fEA710266C8eB6bC34B71702d033EF2
 40	DAR	0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978
-![image](https://github.com/RigoBlock/token-whitelists/assets/12066256/f2e80976-e295-4efc-af88-434ad5eaabdb)
-
-
 ```
 ## Base
 ```
@@ -229,7 +216,4 @@ The RigoBlock protocol requires tokens to be whitelisted in order to be added to
 17	MIM	0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D
 18	DAI	0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb
 19	LEET	0x0963a1aBAF36Ca88C21032b82e479353126A1C4b
-![image](https://github.com/RigoBlock/token-whitelists/assets/12066256/4d35b76e-b6aa-4ca3-b5bf-8bbaf251a952)
-
-
 ```
