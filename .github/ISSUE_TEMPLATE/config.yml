@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Rigoblock Community Support
+    url: https://discord.gg/FXd8EU8
+    about: Please ask and answer questions here.
+  - name: Rigoblock Token Change Request
+    url: https://github.com/Rigoblock/token-whitelists#adding-a-token
+    about: Any requests to add a token to Rigoblock should go here.
