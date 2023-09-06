@@ -4,5 +4,5 @@ contact_links:
     url: https://discord.gg/FXd8EU8
     about: Please ask and answer questions here.
   - name: Rigoblock Token Change Request
-    url: https://github.com/Rigoblock/token-whitelists#adding-a-token
+    url: https://github.com/Rigoblock/token-whitelists#token-whitelists
     about: Any requests to add a token to Rigoblock should go here.
