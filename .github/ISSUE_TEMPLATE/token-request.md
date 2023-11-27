@@ -18,5 +18,5 @@ Token Decimals (from contract):
 Token Symbol (from contract): 
 Network: 
 
-Link to the official homepage of the token:
-Link to CoinMarketCap or CoinGecko page of token:
+Link to the official homepage of the token: 
+Link to CoinMarketCap or CoinGecko page of token: 
